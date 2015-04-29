@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DbgSymGrabber", "DbgSymGrabber\DbgSymGrabber.vcproj", "{010983EF-FBE5-446D-B4A1-D6B6606DAB6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{010983EF-FBE5-446D-B4A1-D6B6606DAB6B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{010983EF-FBE5-446D-B4A1-D6B6606DAB6B}.Debug|Win32.Build.0 = Debug|Win32
+		{010983EF-FBE5-446D-B4A1-D6B6606DAB6B}.Release|Win32.ActiveCfg = Release|Win32
+		{010983EF-FBE5-446D-B4A1-D6B6606DAB6B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
