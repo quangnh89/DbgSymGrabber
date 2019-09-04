@@ -197,7 +197,7 @@ void OnInitDialog( __in HWND hwnd )
 		return;
 	}
 
-	g_bReady = fpSymInitializeW(GetCurrentProcess(), NULL, TRUE);
+	g_bReady = fpSymInitializeW(GetCurrentProcess(), NULL, FALSE);
  	if (g_bReady)
  	{
 		fpSymSetParentWindow(hwnd);
